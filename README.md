@@ -1,4 +1,5 @@
 ```
+// Гайд для самых маленьких и юных
 git init
 git checkout -b main
 git add .
